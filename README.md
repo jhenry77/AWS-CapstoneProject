@@ -2,6 +2,10 @@
 
 A full-stack rewards platform prototype for truck drivers, built with Next.js.
 
+## Deployment Status
+
+This project was previously deployed on AWS through university-provided infrastructure. However, as of project completion, the university AWS account access has ended, and the application is no longer live. The codebase remains available as a portfolio piece to demonstrate full-stack development capabilities.
+
 ## Overview
 
 TruckRewards is a prototype platform simulating how truck drivers could earn, track, and redeem points for rewards from the iTunes catalog. Built with modern web technologies including Next.js, React, and TypeScript, this test project demonstrates full-stack development capabilities with user authentication, role-based access control, and third-party API integration concepts.
